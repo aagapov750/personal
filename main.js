@@ -107,7 +107,7 @@ function showoRezult() {
 	const rezultTemplate = `<h2 class="title">%title%</h2>
 							<h3 class="summary">%message%</h3>
 							<p class="result">%result%</p>
-							<img src = 'nasty.jpg' width = '200' align="middle">`;
+							<img src = 'nasty.jpg' width = '200'>`;
 
 	let title, message;
 
