@@ -106,8 +106,7 @@ function showoRezult() {
 	console.log('showoRezult Start')
 	const rezultTemplate = `<h2 class="title">%title%</h2>
 							<h3 class="summary">%message%</h3>
-							<p class="result">%result%</p>
-							<img src = 'https://raw.githubusercontent.com/aagapov750/personal/main/nasty.jpg' width = '200'>`;
+							<p class="result">%result%</p>`;
 
 	let title, message;
 
